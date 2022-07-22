@@ -5,8 +5,8 @@
 This project uses the following tools:
 
 - [black](https://black.readthedocs.io/en/stable/) : For code formatting 
-- [postgres]() : As database manager
-- [venv]() : As virtual environment manager
+- postgres : As database manager
+- venv : As virtual environment manager
 
 ## Setup
 
@@ -39,7 +39,7 @@ In the root folder of this project, there is a `changelog.md` file. We will use 
 
 Refer to the following guide:
 - [Keeping a changelog](https://keepachangelog.com/en/1.0.0/)
-- [semantic versioning]((https://semver.org/spec/v2.0.0.html))
+- [semantic versioning](https://semver.org/spec/v2.0.0.html)
 ## Models
 
 If you are creating or working with models please ensure that the name of your models is in line with the database schema
